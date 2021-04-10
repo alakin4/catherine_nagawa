@@ -1,10 +1,10 @@
 ---
-author: Georgios Karamanis
-date: 2016-10-30
+author: Catherine S Nagawa
+date: 2021-04-10
 draft: false
 title: 
 type: page
 url: /
 ---
 
-![](images/home/20130601-R0010506.jpg)
+![](images/home01.jpg)
