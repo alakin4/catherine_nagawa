@@ -55,24 +55,30 @@ paginate = 5
         name = "about"
         url = "/about"
 		weight = 4
-	
+
       [[languages.en.menu.main]]
+<<<<<<< Updated upstream
         identifier = "health"
         name = "health"
         url = "/dataviz"
+=======
+        identifier = "research"
+        name = "research"
+        url = "/research"
+>>>>>>> Stashed changes
 		weight = 2
-	
+
       [[languages.en.menu.main]]
         identifier = "blog"
         name = "blog"
         url = "/blog"
 		weight = 1
-		
+
       [[languages.en.menu.main]]
         identifier = "thoughts"
         name = "thoughts"
         url = "/artist"
-		
+
       [[languages.en.menu.main]]
         identifier = "facts"
         name = "facts"
