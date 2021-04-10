@@ -1,9 +1,9 @@
 baseurl = "https://karaman.is"
-title = "Georgios Karamanis - photography and data visualization"
+title = "Catherine S Nagawa - Health and Thoughts"
 languageCode = "en-us"
 theme = "hugo-theme-hello-friend"
 paginate = 5
-googleAnalytics = "UA-727326-5"
+#googleAnalytics = ""
 
 # allow html
 [markup]
@@ -12,8 +12,8 @@ googleAnalytics = "UA-727326-5"
 		unsafe = true
 
 [author]
-    name = "Georgios Karamanis"
-	twitter = "https://twitter.com/geokaramanis"
+    name = "Catherine Nagawa"
+	twitter = "https://twitter.com/Katesuubi1"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -27,10 +27,10 @@ googleAnalytics = "UA-727326-5"
 
 [languages]
   [languages.en]
-    title = "Georgios Karamanis"
-    subtitle = "photography and data visualization"
-    keywords = "photography dataviz"
-    copyright = "© 2009-2020"
+    title = "Catherine Nagawa"
+    subtitle = "Health and Thoughts"
+    keywords = " health thoughts"
+    copyright = "© 2020-2021"
     menuMore = "stuff"
     writtenBy = "by"
     readMore = "Read more"
@@ -42,7 +42,7 @@ googleAnalytics = "UA-727326-5"
     dateFormatList = "2006-01-02"
 
     [languages.en.params.logo]
-      logoText = "Georgios Karamanis"
+      logoText = "Catherine Nagawa"
       logoHomeLink = "/"
     # or
     #
@@ -57,8 +57,8 @@ googleAnalytics = "UA-727326-5"
 		weight = 4
 	
       [[languages.en.menu.main]]
-        identifier = "dataviz"
-        name = "dataviz"
+        identifier = "health"
+        name = "health"
         url = "/dataviz"
 		weight = 2
 	
@@ -69,13 +69,13 @@ googleAnalytics = "UA-727326-5"
 		weight = 1
 		
       [[languages.en.menu.main]]
-        identifier = "aRtist"
-        name = "aRtist"
+        identifier = "thoughts"
+        name = "thoughts"
         url = "/artist"
 		
       [[languages.en.menu.main]]
-        identifier = "street"
-        name = "street photo"
+        identifier = "facts"
+        name = "facts"
         url = "/street"
 
       [[languages.en.menu.main]]
