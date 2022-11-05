@@ -1,5 +1,5 @@
 ---
 title: about
-author: Georgios Karamanis
-date: 2019-10-05
+author: Catherine S nagawa
+date: 2022-11-05
 ---
